@@ -1,4 +1,4 @@
-# Algorithm-Part1
+# Algorithms-Part1
 Personal Programming assignment
 
 ### Scores
