@@ -12,7 +12,7 @@ This course covers the essential information that every serious programmer needs
 |2     | Deques and Randomized Queues | 100.08% |  PASSED  | PASSED  |   PASSED  |
 |3     | Collinear Points             | 100.00% |  PASSED  | PASSED  |   PASSED  |
 |4     | 8 Puzzles                    | 100.00% |  PASSED  | PASSED  |   PASSED  |
-|5     | KdTrees                      | 100.00% |  PASSED  | PASSED  |   PASSED  |
+|5     | Kd-trees                      | 100.00% |  PASSED  | PASSED  |   PASSED  |
 
 ### Contact
 If you have any questions, feel free to contact:
